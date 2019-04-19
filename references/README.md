@@ -7,6 +7,7 @@ References
 - [The Bronfman Haggadah](https://www.goodreads.com/book/show/15797186-the-bronfman-haggadah)
 - [In Every Generation](https://www.karben.com/pjhaggadah)
 - [Four questions of Miriam](references/four_questions_of_miriam.md)
+- [The Liberated Haggadah](https://citycongregation.org/liberated-hagaddah-shop/)
 - [New American Haggadah](https://www.goodreads.com/book/show/10833741-new-american-haggadah)
 - [Passover Haggadah, brought to you by Maxwell House](https://en.wikipedia.org/wiki/Maxwell_House_Haggadah)
 - [JOCSM V'ahavta](references/jocsm_v_ahavta.md)
