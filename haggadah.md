@@ -220,25 +220,37 @@ If we only had our hope. DIE-YAY-NOO.
 
 ["DIE-YAY-NOO" means: It would have been sufficient.] 
 
-## The fourth cup of Elijah
+## The fourth cup of [Miriam & Elijah](https://citycongregation.org/liberated-hagaddah-shop/)
 
-**Reader 1**: Let us all fill our wine glasses. 
+Our journey is nearing an end, and we gaze with longing to a day when all people will be free.
 
-[Reader 1 picks up Elijah's cup, an extra glass of wine, for all to see.]
+**Group**: *The name Elijah has been the symbol of hope for that future redemption.*
 
-This is the cup of Elijah. Legend says that Elijah was a brave man who denounced the slavery of his day. He is a symbol of peace and freedom. 
+A leader and prophet, a lone visionary in the wilderness, Elijah led a people’s rebellion against a wicked government.
 
-It was customary during the Passover Seder to open the door of the house for Elijah, in the hope that the age of universal peace may soon be at hand. 
+**Group**: *According to legend, Elijah never died and will return some day to announce freedom for all the people of the world.*
 
-**Group**: *We, too, open the door to peace, knowing that Elijah's task is really our own. Only when we have made a world where nation shall not lift up sword against nation, where justice is universal, and where each person is free, will the age-old dream of peace be real.*
+Throughout the history of our people the name Miriam has been the symbol of protection and healing.
 
-*Let us bring peace and justice to the world!*
+**Group**: *A leader and a prophet, Miriam lived in that same wilderness and accompanied the Hebrew people at every stage of their journey.*
 
-**Reader 1**: Let us now open the door. 
+According to legend, wherever Miriam went, a wellspring of water sprung up that sustained the people.
+
+**Group**: *The cup of Elijah, filled with wine, is a cup of hope.*
+
+It stands for the vision that lies ahead.
+
+**Group**: *The cup of Miriam, filled with water, is the cup of life.*
+
+It offers the sustenance to take us on that journey.
+
+**Group**: *Miriam, with her wellspring of water, is always at our side.*
+
+We now open the door of our house and our hearts and invite Elijah to enter.
 
 [Open a door in your house, and leave it open while you eat]
 
-We will now raise our glasses and say:
+We will now raise our glasses of wine and say:
 
 **Group:**
 *We shall make peace in the world* 
@@ -249,7 +261,14 @@ We will now raise our glasses and say:
 
 [Drink 4th Glass Of Wine]
 
+Water is an essential component of everything on our seder table.  Without water, there would be no food. There would be no people, no us. Similarly, without Miriam, there would be no Moses, and there would be no free Jews. There would be no us.
+
+We will now raise our glasses of water and say:
+
+**Group**: *Mni Wičoni.  In Standing Rock, and along every pipeline, water is under threat.  Grassy Narrows and Wabaseemoong First Nations, the water is still not safe.  This water is life, and for that we are grateful.  L'chaim.*
+
+[Drink Glass Of Water]
+
 ## Let's Eat
 
 **Reader 1**: Now it is time for our leisurely, and scrumptious Pesakh meal. 
-
