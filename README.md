@@ -1,9 +1,9 @@
-A Modern Passover
-========
+[A Modern Passover](haggadah.md)
+===================
 
 ### What is this?
 
-A nontheistic haggadah. No "God." Instead we have the good stories, important quotes, and the four questions (plus one). Only takes 15 minutes to get through. This haggadah helps you get to your meal before the matzah balls get cold. 
+A secular humanist, social justice, family friendly haggadah.  We have the good stories, important quotes, and at least four questions.  We'll be timing it this year.  The haggadah from which this is forked helps you get to your meal before the matzah balls get cold. 
 
 ### Who made this Haggadah?
 
