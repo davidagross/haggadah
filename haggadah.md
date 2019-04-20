@@ -26,6 +26,7 @@
 
 **Group**: *BAH-ROOCH HA-OR BAH-OLAM, BAH-ROOCH HA-OR BAH-ADAM, AH-SHER KEE-DEH-SHAH-NOO BEH-MITZ-VOH-TAHV VEH-TZEE-VAH-NOO LEH-HAD-LEEK NER SHEL YOHM TOHV*
 
+**Next Reader**: We celebrate the light of the world, and all the people in it, as we congregate together to celebrate this holiday.
 
 ## Kiddush, the first cup of wine
 
@@ -37,6 +38,7 @@
 
 **Group**: *BAH-ROOCH HA-OR BAH-OLAM, BAH-ROOCH HA-OR BAH-ADAM, BOH-REY PREE HAH-GAH-FEN.*
 
+**Next Reader**: We celebrate the light of the world, and all the people in it, and especially the people who bring forth fruit from the vine.
 
 ## The Story Of Passover
 
