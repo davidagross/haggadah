@@ -6,9 +6,11 @@
 
 > This is a condensed version from the adaptation "[A Humanist Modern Version Haggadah For Passover](http://www.eszter.com/Haggadah.pdf)" by [Eszter Hargittai](http://www.twitter.com/eszter). Her text is great, but we wanted to make it shorter and add in some of our favorite quotes. She got her version by adapting Machar's ["A HUMANIST HAGGADAH FOR PASSOVER"](http://www.machar.org/wp-content/uploads/2013/01/Machar-Humanistic-Haggadah.pdf) and ["Passover Haggadah for a Secular-Humanist Seder"](http://www.citycongregation.org/celebrations/sample-services/#passover) City Congregation for Humanistic Judaism, New York City.
 
-> We got some prayers and songs from other places around the web. Quotes came via wikiquote or Google.
+> They got some prayers and songs from other places around the web. Quotes came via wikiquote or Google.
 
-> If you see anything wrong, let me know by telling me [on twitter](https://twitter.com/mischa).
+> Then I came along and read it for our Passeaster Feasting with my family in 2018.  We skipped around and switched tabs a bit, so for Passover 2019 I forked their work to make it my own.  We've pulled in some more thinking and text from various [references](references).
+
+> If you see anything wrong, let me know by telling me [on twitter](https://twitter.com/dgroseph).
 
 ## Invitation
 
