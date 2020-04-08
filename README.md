@@ -3,11 +3,11 @@
 
 ### What is [this](haggadah.md)?
 
-A secular humanist, social justice, family friendly haggadah.  We have the good stories, important quotes, and at least four questions.  We'll be timing it this year.  The haggadah from which this is forked helps you get to your meal before the matzah balls get cold. 
+A secular-humanist, social-justice, family-friendly haggadah.  We have the good stories, important quotes, and at least four questions.  We forgot to time it last year, and probably forget again this year.  The haggadah from which this is forked helps you get to your meal before the matzah balls get cold. 
 
 ### Who made [this Haggadah](haggadah.md)?
 
-[Mischa Von Nachtigal](https://twitter.com/mischa) and [Tina Vaughn](https://github.com/tinavn) [(check out her website)](http://www.tinamvaughn.com/) put together a GitHub Haggadah in 2014. But they borrowed heavily from a few sources.
+[Mischa Von Nachtigal](https://twitter.com/mischa) and [Tina Vaughn](https://github.com/tinavn) put together a GitHub Haggadah in 2014. But they borrowed heavily from a few sources.
 
 It was a condensed version from the adaptation "[A Humanist Modern Version Haggadah For Passover](http://www.eszter.com/Haggadah.pdf)" by [Eszter Hargittai](http://www.twitter.com/eszter). Her text is great, but they wanted to make it shorter and add in some of their favorite quotes. She got her version by adapting Machar's ["A HUMANIST HAGGADAH FOR PASSOVER"](http://www.machar.org/wp-content/uploads/2013/01/Machar-Humanistic-Haggadah.pdf) and ["Passover Haggadah for a Secular-Humanist Seder"](http://www.citycongregation.org/celebrations/sample-services/#passover) City Congregation for Humanistic Judaism, New York City.
 
@@ -17,15 +17,15 @@ Then I came along and read it for our Passeaster Feasting with my family in 2018
 
 If you see anything wrong, let me know by telling me [on twitter](https://twitter.com/dgroseph).
 
-### Why'd you do it?
+### Why'd they do it?
 
 Basically: they wanted a concise nontheistic version of a Haggadah. They both love Passover: the stories, the questions, the food, the time you spend with your families, and the fact that it's a meal that has a lot of important themes that still resonate today. Slavery is still an issue in this world, and they wanted a Haggadah that focused on the theme of civil and social liberties and brought them into a modern context.  This all resonated with us, as we were feeling a bit stuck trying to work from haggadot that where the inspiration for this one.
 
 ### How do I use [this Haggadah](haggadah.md) and have a seder?
 
-First off, setting up a passover seder is easy. You have a week to gather your friends and family (anyone you love and are thankful for being in your life) for a passover meal. Arrange a seder plate [with the usual stuff](https://en.wikipedia.org/wiki/Passover_Seder_Plate) but add an orange. Put the seder plate in the center of the plate. Don't forget to cook your food. Personally: I like matzoh-ball soup and brisket the most. 
+First off, setting up a passover seder is easy. You have a week to gather your friends and family (anyone you love and are thankful for being in your life) for a passover meal. Arrange a seder plate [with the usual stuff](https://en.wikipedia.org/wiki/Passover_Seder_Plate) but add an orange. Put the seder plate in the center of the plate. Don't forget to cook your food. Personally: I miss gefilte fish and matzoh-ball soup if they aren't there, and I'm also partial to my great-grandmother's carrot mold.
 
-Print this Haggadah out, or send it around to folks before hand. Having more than 4 people is great, but you could definitely make it work with two. Just make sure the group sections are read aloud by everyone, it really does make it a lot more powerful and uniting. You could just go around the table or the room, or make copies that are higlighted for a good table read.
+Print this Haggadah out, or send it around to folks before hand. Having more than 4 people is great, but you could definitely make it work with two. Just make sure the group sections are read aloud by everyone, it really does make it a lot more powerful and uniting. You could just go around the table or the room, or make copies that are higlighted for a good table read.  In 2019 we sat everyone around the room and had one copy up on the television for everyone to read from.  It worked out all right, but make sure you have an order to keep folks reading without worrying about who is next or not sharing the text.  Also, then we could easily convert the room to a cinema for the annual screening of [Prince of Egypt](https://www.imdb.com/title/tt0120794/).
 
 ### Do I have to be Jewish to use [this](haggadah.md)?
 
