@@ -2,7 +2,7 @@
 
 *For those who want to remember, for those who want to take stock, for those who want to be thankful, and for those who want to get to the meal faster.*
 
-> This Haggadah was compiled by [Mischa Nachtigal](http://twitter.com/mischa) and [Tina Vaughn](http://www.tinamvaughn.com/) in 2013. But we borrowed heavily from a few sources. You can read [a quick post about the process of putting it together](https://medium.com/this-matters-to-me/761efa25d839). 
+> This Haggadah was compiled by [Mischa Nachtigal](http://twitter.com/mischa) and [Tina Vaughn](https://github.com/tinavn) in 2013. But we borrowed heavily from a few sources. You can read [a quick post about the process of putting it together](https://medium.com/this-matters-to-me/761efa25d839). 
 
 > This is a condensed version from the adaptation "[A Humanist Modern Version Haggadah For Passover](http://www.eszter.com/Haggadah.pdf)" by [Eszter Hargittai](http://www.twitter.com/eszter). Her text is great, but we wanted to make it shorter and add in some of our favorite quotes. She got her version by adapting Machar's ["A HUMANIST HAGGADAH FOR PASSOVER"](http://www.machar.org/wp-content/uploads/2013/01/Machar-Humanistic-Haggadah.pdf) and ["Passover Haggadah for a Secular-Humanist Seder"](http://www.citycongregation.org/celebrations/sample-services/#passover) City Congregation for Humanistic Judaism, New York City.
 
@@ -14,7 +14,7 @@
 
 ## Invitation
 
-**First Reader**: We have come together this evening for many reasons. We are here because Spring is all around, the Earth is reborn, and it is a good time to celebrate with family and friends. 
+**First Reader**: We have come together this evening for many reasons. We are here because Spring is all around, the Earth is reborn, and it is a good time to celebrate with family and friends, across any distance. 
 
 **Group:** *We are here because the struggle for human freedom never stops. We are here to remember all people who are still struggling for their freedom.* 
 
@@ -24,7 +24,14 @@
 
 [Light candles]
 
-**Group**: *BAH-ROOCH HA-OR BAH-OLAM, BAH-ROOCH HA-OR BAH-ADAM, AH-SHER KEE-DEH-SHAH-NOO BEH-MITZ-VOH-TAHV VEH-TZEE-VAH-NOO LEH-HAD-LEEK NER SHEL YOHM TOHV*
+**Group**:
+Transliteration | Hebrew
+--------------- | ------
+*BAH-ROOCH HA-OR BAH-OLAM,* | ברוך האור בעולם
+*BAH-ROOCH HA-OR BAH-ADAM,* | ברוך האור באדם
+*AH-SHER KEE-DEH-SHAH-NOO* | אשר קדשנו
+*BEH-MITZ-VOH-TAHV VEH-TZEE-VAH-NOO* | במזוטו וזיונו
+*LEH-HAD-LEEK NER SHEL YOHM TOHV* | להדלק נר של ים טו
 
 **Next Reader**: We celebrate the light of the world, and all the people in it, as we congregate together to celebrate this holiday.
 
